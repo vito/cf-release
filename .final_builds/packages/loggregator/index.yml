@@ -45,3 +45,8 @@ builds:
     version: 9
     sha1: !binary |-
       OGM5ZmZlMDhkMDYyZjg5ODM0ODc0ODcwYWYyZmNkMWI4NTM1MzY0ZA==
+  !binary "MzYxM2I3YjA5MjMwZWY1NGFjYzc4ZDc2NjBmZTQzMTU5MDY5MzgyMA==":
+    blobstore_id: abf3ceb8-3dc6-48a5-8edc-9b25a7275528
+    version: 10
+    sha1: !binary |-
+      YmYyNDdkYzgzMjRiYjQ4ZWFlYmZjZWQzNTNjNDc0NjI4ZWQ1Zjc5Zg==
